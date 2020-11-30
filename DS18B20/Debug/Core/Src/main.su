@@ -1,0 +1,11 @@
+main.c:61:7:delay	16	static
+main.c:76:7:Set_Pin_Output	40	static
+main.c:85:7:Set_Pin_Input	40	static
+main.c:98:10:DS18B20_Start	16	static
+main.c:116:7:DS18B20_Write	24	static
+main.c:148:10:DS18B20_Read	16	static
+main.c:177:5:main	120	static
+main.c:244:6:SystemClock_Config	88	static
+main.c:288:13:MX_TIM6_Init	16	static
+main.c:326:13:MX_GPIO_Init	40	static
+main.c:354:6:Error_Handler	4	static
